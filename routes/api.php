@@ -24,20 +24,3 @@ Route::get('/read/{id}','WebServicesController@read');
 Route::post('/create','WebServicesController@create');
 Route::delete('/delete/{id}','WebServicesController@delete');
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// Route::put('/update/{id}','WebServicesController@u_update');
