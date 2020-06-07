@@ -50,19 +50,3 @@ class WebServicesController extends Controller
     }
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-// public function u_update(Request $request, $id) {
-//     return response()->json(userinfo::find($id), 200);
-// }
